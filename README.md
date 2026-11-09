@@ -52,3 +52,4 @@ Feel free to open a PR if you wish! But please follow the rules:
 ### PRs must satisfy the following conditions:
 * The linked resources must be genuinely useful to learn from. (Toy/hobby projects are allowed in `Open Source Plugins & Software` as long as the software is functional.)
 * Lists must be sorted in alphabetical order.
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS Now Playing companion.
